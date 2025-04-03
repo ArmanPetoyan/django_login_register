@@ -1,3 +1,5 @@
+## Django Login and Registration System
+
 1. Create folder in your desktop
 2. ```
    git clone https://github.com/ArmanPetoyan/django_login_register.git
